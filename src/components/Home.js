@@ -52,7 +52,7 @@ const Home = () => {
       <div className="text-center">
         <h1 className="text-3xl font-bold p-2">Data Table</h1>
       </div>
-      <div className="flex justify-center overflow-x-scroll">
+      <div className="overflow-scroll">
         <table className="table-auto">
           <thead>
             <tr className="bg-slate-600 text-white">
